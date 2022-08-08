@@ -11,7 +11,7 @@
 - Participando dos programas de formação de Desenvolvedores Full-Stack:
 - Capgemini
 - StartSe
-- Santander
+
 
 
   <div style="display: inline_block"><br>
