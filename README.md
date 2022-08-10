@@ -4,13 +4,11 @@
 
 
 
--🎓 Engenheiro Civil, atualmente cursando Análise e Desenvolvimento de Sistemas </br>
--💻 Estudando JavaScript, HTML, CSS, SQL </br>
+-🎓 Engenheiro Civil em transição de carreira para Desenvolvimento de Software. 
+-    Atualmente cursando Análise e Desenvolvimento de Sistemas </br>
+-💻 JavaScript, HTML, CSS, SQL </br>
 -🎮 Games 📚 livros 🎬 filmes & séries 🏋🏻‍♂️esportes 🐶🐺 animais 
 
-- Participando dos programas de formação de Desenvolvedores Full-Stack:
-- Capgemini
-- StartSe
 
 
 
