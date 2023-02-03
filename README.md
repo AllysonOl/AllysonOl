@@ -5,8 +5,8 @@
 
 
 -🎓 Engenheiro Civil em transição de carreira para Desenvolvimento de Software. </br>
--🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas </br>
--💻 JavaScript, Node.js, HTML, CSS, SQL </br>
+-🎓 Análise e Desenvolvimento de Sistemas </br>
+-💻 C#, JavaScript, SQL Server, CSS </br>
 -🎮 Games 📚 livros 🎬 filmes & séries 🏋🏻‍♂️esportes 🐶🐺 animais 
 
 
